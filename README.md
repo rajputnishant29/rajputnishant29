@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./neofetch_readme.svg" alt="Nishant Rajput neofetch card" width="100%"/>
-</p>
-
-<p align="center">
   <b>Software Engineer · AI Engineer · Product Builder</b>
   <br/>
   <sub>Building systems, shipping products, and occasionally going too deep into how things work.</sub>
